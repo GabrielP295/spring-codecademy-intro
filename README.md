@@ -25,7 +25,7 @@ GET /helloworld
 ./mvnw spring-boot:run
 ```
 
-Then visit `http://localhost:8080/helloworld`.
+Then visit `http://localhost:8080/helloworld` in your browser.
 
 ## Context
 
